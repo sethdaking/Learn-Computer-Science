@@ -1,4 +1,6 @@
 🚀 Learning Computer Science in Public
+
+
 Welcome to my open notebook, sandbox, and war journal as I dive headfirst into the world of Computer Science — from zero. No formal degree. Just grit, curiosity, and caffeine.
 
 💡 Why this repo?
